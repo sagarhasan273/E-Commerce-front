@@ -19,6 +19,6 @@ module.exports = {
     "react/jsx-filename-extension": 0,
     "react/react-in-jsx-scope": 0,
     "comma-dangle": 0,
-
+    "linebreak-style": 0,
   },
 };
