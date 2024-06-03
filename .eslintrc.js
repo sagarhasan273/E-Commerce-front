@@ -16,9 +16,11 @@ module.exports = {
   plugins: ["react", "prettier"],
   rules: {
     quotes: 0,
+    "no-console": 0,
     "react/jsx-filename-extension": 0,
     "react/react-in-jsx-scope": 0,
     "comma-dangle": 0,
     "linebreak-style": 0,
+    "import/no-extraneous-dependencies": 0,
   },
 };
